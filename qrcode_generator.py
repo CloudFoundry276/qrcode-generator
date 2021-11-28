@@ -9,7 +9,7 @@ qr = qrcode.QRCode(
 )
 
 #data = "https://www.youtube.com/c/TechieCoder/playlists"
-data = "Sagar Pitalekar"
+data = "CloudFoundry276"
 
 qr.add_data(data)
 qr.make(fit = True)
